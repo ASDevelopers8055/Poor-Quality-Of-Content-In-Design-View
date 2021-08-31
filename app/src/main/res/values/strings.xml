@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Tip Time</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="round_up_text">Round up text?</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Output Message: %s</string>
+    <string name="cost_of_service">Input Message</string>
+    <string name="service">Encrypt or decrypt?</string>
+</resources>
